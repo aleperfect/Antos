@@ -1,4 +1,4 @@
-// Readz Aleizn@BrunoSobrino - _antiarab.js
+// 𝘼𝙉𝙏𝙊 𝘿𝙕𝙉@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;

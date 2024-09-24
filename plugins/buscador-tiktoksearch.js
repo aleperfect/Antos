@@ -1,4 +1,4 @@
-// Codigo hecho para Readz Aleizn - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+// Codigo hecho para 𝘼𝙉𝙏𝙊 𝘿𝙕𝙉 - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
