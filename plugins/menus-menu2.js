@@ -28,7 +28,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const str = ` ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : 𝘼𝙉𝙏𝙊 𝘿𝙕𝙉
 ┃📞 Wa.me/56949634570
-┃https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
